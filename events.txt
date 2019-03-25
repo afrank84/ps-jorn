@@ -1,0 +1,5 @@
+Personal Data Base
+03/24/2019 08:36:06 | Anthony Frank : Switched time events.
+03/24/2019 08:43:00 | Anthony Frank : Added -path to code
+03/24/2019 08:44:55 | Anthony Frank : Testing jorn.ps1
+03/25/2019 09:05:07 | Anthony Frank : Testing pathway for powershell script jorn.ps1
