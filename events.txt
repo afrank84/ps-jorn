@@ -3,3 +3,14 @@ Personal Data Base
 03/24/2019 08:43:00 | Anthony Frank : Added -path to code
 03/24/2019 08:44:55 | Anthony Frank : Testing jorn.ps1
 03/25/2019 09:05:07 | Anthony Frank : Testing pathway for powershell script jorn.ps1
+03/25/2019 21:38:51 | Anthony Frank : Planned Day with Google Keep
+03/25/2019 21:49:09 | Anthony Frank : Attempted to load jorn.ps1 script on load up. It Failed!
+03/26/2019 08:51:24 | Anthony Frank : Woke up booted on computer for the day.
+03/26/2019 09:02:23 | Anthony Frank : Started up atlas-run and pushed up first commit "Update UI and background"
+03/26/2019 09:12:29 | Anthony Frank : Got atlas-run up and running.
+03/26/2019 13:18:43 | Anthony Frank : Added Banners, animations, and other things to very-plugin andnow taking a break.
+03/27/2019 10:14:22 | Anthony Frank : Booted on computer to work. Task assignments "Get Spinner Built" & "Get Creditals to Deragon"
+03/28/2019 18:07:00 | Anthony Frank : Washing Nova
+03/29/2019 08:59:59 | Anthony Frank : Woke up and began moving after going to bed around almost 3am.
+03/29/2019 09:17:23 | Anthony Frank : Booting up application for testing purposes "Verify"
+03/29/2019 09:19:35 | Anthony Frank : Verify almost booted up
